@@ -1,0 +1,1298 @@
+UI_CREATE_ROLE	Создать персонажа
+UI_DELETE_ROLE	Удалить персонажа
+UI_EXIT_DELETE_ROLE	Выйти из удаления персонажа
+UI_SHOW_ON_DESKTOP	Показать на рабочем столе
+UI_HIDE	Скрыть
+UI_DRESS_UP	Переодеть
+UI_APPEARANCE	Внешность
+UI_COLLECTION	Профиль персонажа
+UI_BASIC_INFO	Основные сведения
+UI_CRAFT	Крафт
+UI_SYNTHESIS	Крафт
+UI_ONE_CLICK_SELECTION	Выбор в один клик
+UI_NOT_AVAILABLE	Скоро
+UI_SETTINGS	Настройки
+UI_SKIN_COLOR	Образы
+UI_HAIRSTYLE	Причёска
+UI_FACIAL_FEATURES	Черты лица
+UI_CLOTHING_TOP	Одежда
+UI_BOTTOMS_FOOTWEAR	Аксессуары
+UI_ACCESSORIES	Головной убор
+UI_FRONT_HAIR	Передние волосы
+UI_BACK_HAIR	Задние волосы
+UI_TEMPLE	Волосы у висков
+UI_PLAIT	Косы
+UI_AHOGE	Ахог
+UI_HAIR_HIGHLIGHTS	Мелирование
+UI_HAIR_SHINE	Блеск волос
+UI_EYES	Глаза
+UI_EYELASHES	Ресницы
+UI_EYEBROWS	Брови
+UI_EARS	Уши
+UI_MOUTH	Рот
+UI_BEARD	Борода и усы
+UI_SCAR	Шрамы
+UI_ANIMAL_EARS	Звериные уши
+UI_TAIL	Хвост
+UI_UNDERWEAR	Верх
+UI_OUTERWEAR	Верхняя одежда
+UI_SCARF	Шарф
+UI_CLOTHING_DECOR	Декор одежды
+UI_PANTS	Брюки
+UI_SKIRT	Юбка
+UI_SOCKS	Носки
+UI_SHOES	Обувь
+UI_BACK_ACCESSORY	Аксессуар на спине
+UI_HAT	Шляпа
+UI_HEADWEAR	Головной убор
+UI_MASK	Маска
+UI_FACE_ACCESSORY	Аксессуары лица
+UI_EARRINGS	Серьги
+UI_HAIRPIN	Аксессуары волос
+UI_GLOVES	Перчатки
+UI_HAND_ACCESSORY	Аксессуары рук
+UI_HALO	Ореол
+UI_WINGS	Крылья
+UI_RESET_CHARACTER	Сбросить персонажа
+UI_UNDO	Отменить
+UI_REDO	Вернуть
+UI_COSTUME_TREASURE	Коллекционные наряды
+UI_SET_ACTION	Задать действие
+UI_ACTION	Действия
+UI_FLIP	Отразить
+UI_CLOTHING	Одежда
+UI_RESET	Сброс
+UI_CONFIRM	Подтвердить
+UI_ADJUST_PROPS	Настроить предметы
+UI_CHARACTER_SIZE	Размер персонажа
+UI_FLOATING_WINDOW_SIZE	Размер плавающего окна
+UI_UI_SCALE	Масштаб интерфейса
+UI_PIN_TO_DESKTOP	Поверх всех окон
+UI_AUTO_START	Запуск при старте системы
+UI_CANCEL	Отмена
+UI_LANGUAGE	Язык
+UI_ENGLISH	Английский
+UI_SIMPLIFIED_CHINESE	Упрощённый китайский
+UI_VOLUME	Громкость
+UI_BACKGROUND_MUSIC	Фоновая музыка
+UI_SOUND_EFFECTS	Звуковые эффекты
+UI_HELP_GUIDE	Мы в соцсетях
+UI_FEEDBACK	Обратная связь
+UI_EXIT_GAME	Выйти из игры
+UI_RARITY_LEGENDARY	Легендарный
+UI_RARITY_EPIC	Эпический
+UI_RARITY_RARE	Редкий
+UI_RARITY_COMMON	Обычный
+UI_CRAFT_RULE_DESC	Из 10 предметов одной редкости можно создать 1 предмет более высокой редкости
+UI_HUE	Тон
+UI_SATURATION	Насыщеность
+UI_BRIGHTNESS	Яркость
+UI_GRADIENT_COLOR	Градиент
+UI_COLOR_CARD	Палитра
+UI_LINK_HAIR_COLOR	Копировать цвет волос
+UI_CUMULATIVE_INPUT	Всего нажатий
+UI_ACTION_STAND	Стоять
+UI_ACTION_PLAY_GAMES	играть в игры
+UI_ACTION_TYPE_COMPUTER	печатать на компьютере
+UI_ACTION_PLAY_GUITAR	играть на гитаре
+UI_ACTION_PLAY_SAXOPHONE	играть на саксофоне
+UI_ACTION_DRUM_KIT	ударная установка
+UI_ACTION_MICROPHONE_STAND	микрофонная стойка
+UI_ACTION_PLAY_KEYBOARD	играть на синтезаторе
+UI_ACTION_PLAY_BASS	играть на бас-гитаре
+UI_ACTION_STRETCH	растяжка
+UI_ACTION_SWAY	покачивание
+UI_ACTION_LEG_LIFT	подъём ноги
+UI_ACTION_DRAWING_TABLET	графический планшет
+UI_ACTION_LEEK_SPIN	крутить лук-порей
+UI_ACTION_READ_BOOK	читать книгу
+UI_ACTION_EAT_CHIPS	есть чипсы
+UI_ACTION_SWING_SWORD	махать мечом
+UI_ACTION_CAST_SPELL	колдовать
+UI_THEME_CASUAL_LIFE	Уютная повседневность
+UI_THEME_WORKPLACE_PRO	Деловой шик
+UI_THEME_FAIRY_TALE	Сказочное фэнтези
+UI_THEME_RAGNAROK	Рагнарёк
+UI_THEME_HYAKKI_YAKO	Парад ста демонов
+UI_THEME_CHINESE_STYLE	Китайский стиль
+UI_THEME_CHILDHOOD	Детские воспоминания
+UI_THEME_OTAKU	Жизнь отаку
+UI_THEME_LEGENDARY_TREASURE	Легендарное сокровище
+UI_DELETE_ROLE_WARNING	Удалить этого персонажа? Действие нельзя отменить
+UI_EXIT_UNSAVED_TITLE	Выйти без сохранения?
+UI_EXIT_UNSAVED_MSG	У вас есть несохранённые изменения. При выходе они будут потеряны
+UI_RESET_CHARACTER_TITLE	Сбросить персонажа?
+UI_RESET_CHARACTER_MSG	Точно убрать всю одежду? (Причёска и черты лица сохранятся)
+UI_ACT_UNLOCK_CONDITION	Открывается после {0} нажатий
+UI_ITEM_NOT_OBTAINED	Не получено. Крафтите, чтобы получить редкие предметы
+UI_GET_NEW_PROP	НОВОЕ
+UI_DUPLICATE_PROP	Дубликат
+UI_ONLY_LEFT	Левый
+UI_ONLY_RIGHT	Правый
+UI_CONTINUE	Продолжить
+UI_Discard	Всё равно выйти
+UI_SAVE	Сохранить
+UI_All_Characters	Персонажи
+UI_POWER_LOW	Недостаточно очков навыков
+UI_EQUIPPED_TIP	В материалах для создания есть надетый предмет. При продолжении он будет принудительно снят и удалён из инвентаря
+UI_CONTINUE_FUSION	Продолжить создание
+UI_PONYTAIL	Длинные задние волосы
+UI_REMOVE	Убрать {0}
+UI_SWITCH_MONITOR	Сменить монитор
+UI_SWITCH	Переключить
+UI_EQUIPPED	Этот предмет сейчас надет
+UI_EYESHADOW	Тени
+UI_EYELIGHT	Блик в глазах
+UI_PUPIL	Зрачок
+UI_EDIT	Редактировать
+UI_FURRY	Фурри
+UI_COLOR1	Цвет 1
+UI_COLOR2	Цвет 2
+UI_HAIR_PONYTAIL	Хвосты/Косы
+UI_DELETE_LAST_ROLE_TIPS	Оставьте хотя бы одного персонажа!
+UI_HIDE_LAST_ROLE_TIPS	Должен быть показан хотя бы один персонаж!
+UI_NEW_ROLE_RENAME_TIPS	Как же меня зовут…?
+UI_OCACT_TYPE_STANDING	Стоять
+UI_OCACT_TYPE_WALKING	Ходьба
+UI_OCACT_TYPE_HIDING	Прятаться
+UI_OCACT_TYPE_TOUCHING	Коснуться
+UI_OCACT_TYPE_WINK	Подмигивание
+UI_OCACT_TYPE_HAPPY	Радость
+UI_OCACT_TYPE_SAD	Грусть
+UI_OCACT_TYPE_ANGRY	Злость
+UI_OCACT_TYPE_SURPRISE	Удивление
+UI_OCACT_TYPE_TIRED	Усталость
+UI_OCACT_TYPE_SHY	Застенчивость
+UI_OCACT_TYPE_PROND	Гордость
+IMG_TOPIC_ANGRY_OPENING	Растерянность
+UI_REMOVE_LAST_ACTION_TIPS	В этом типе должно остаться хотя бы одно действие!
+UI_EYELINER	Нижняя подводка
+UI_OC_AUTO_WALK_TITLE	Автоходьба
+UI_CHAT_WITH	Беседует с {0}
+GG_DIALOGUE_1_1	Десять предметов — за одно сокровище высшего уровня...
+GG_DIALOGUE_2_1	Столько не влезет! Десяти достаточно!
+GG_DIALOGUE_3_1	Соберёшь всё — тогда и приходи
+GG_DIALOGUE_4_1	Это предмет легендарного уровня, его нельзя использовать в создании. Не хочу неприятностей!
+GG_DIALOGUE_5_1	Не мудри, этих нескольких вещей хватит
+UI_OUTFIT_PRESET	Набор
+MOVIE_TEST	<color=red>Мне</color> вчера ночью приснился {OC1.owner}. Во сне {OC1.owner}, наевшись до отвала на шведском столе с {OC1.favorite.food}, <speed=0.5>оказывается...<b>**три! дня! подряд! икал!**</b>
+UI_DRESSUP_BG_INITIAL	Исходный
+UI_DRESSUP_BG_DRAK	Тёмный
+UI_DRESSUP_BG_INDOOR	В помещении
+UI_PRESET_FULL_TIPS	Список наборов заполнен!
+UI_PRESET_NAME_TIPS	Придумайте название набору
+UI_PRESET_MISSING_TIPS	В этом наборе не хватает следующих предметов. Всё равно применить?
+UI_MYCOLOR	Мои цвета
+DIALOGUE_SET_NAME	Привет, {OC1.owner}! Я {OC1.name}
+INTERACT_DEFAULT_DIALOG	Рад познакомиться~
+DIALOGUE_SET_OWNER	Хорошо, {OC1.owner}
+UI_OC_NAME_BY_COLOR_-1	Светлый
+UI_OC_NAME_BY_COLOR_0	Рубин
+UI_OC_NAME_BY_COLOR_1	Орех
+UI_OC_NAME_BY_COLOR_2	Сиена
+UI_OC_NAME_BY_COLOR_3	Роза
+UI_OC_NAME_BY_COLOR_4	Шафран
+UI_OC_NAME_BY_COLOR_5	Янтарь
+UI_OC_NAME_BY_COLOR_6	Голди
+UI_OC_NAME_BY_COLOR_7	Рассвет
+UI_OC_NAME_BY_COLOR_8	Санни
+UI_OC_NAME_BY_COLOR_9	Шарлотта
+UI_OC_NAME_BY_COLOR_10	Шалфей
+UI_OC_NAME_BY_COLOR_11	Ивы
+UI_OC_NAME_BY_COLOR_12	Нефрит
+UI_OC_NAME_BY_COLOR_13	Мята
+UI_OC_NAME_BY_COLOR_14	Лесной
+UI_OC_NAME_BY_COLOR_15	Небо
+UI_OC_NAME_BY_COLOR_16	Лазурь
+UI_OC_NAME_BY_COLOR_17	Океан
+UI_OC_NAME_BY_COLOR_18	Эбони
+UI_OC_NAME_BY_COLOR_19	Иней
+UI_OC_NAME_BY_COLOR_20	Уэверли
+UI_OC_NAME_BY_COLOR_21	Марина
+UI_OC_NAME_BY_COLOR_22	Индиго
+UI_OC_NAME_BY_COLOR_23	Виолетта
+UI_OC_NAME_BY_COLOR_24	Сумерки
+UI_OC_NAME_BY_COLOR_25	Сирень
+UI_OC_NAME_BY_COLOR_26	Мальва
+UI_OC_NAME_BY_COLOR_27	Лаванда
+UI_OC_NAME_BY_COLOR_28	Персик
+UI_OC_NAME_BY_COLOR_29	Мэй
+UI_OC_NAME_BY_COLOR_30	Рози
+UI_OC_NAME_BY_COLOR_31	Соль
+UI_OC_NAME_BY_COLOR_32	Фуксия
+UI_OC_NAME_BY_COLOR_33	Черри
+UI_OC_NAME_BY_COLOR_34	Алиса
+UI_OC_NAME_BY_COLOR_35	Феникс
+UI_TOPIC	Тема
+UI_TOPIC_NAME_LABEL	Имя
+UI_TOPIC_NICKNAME_LABEL	Прозвище
+UI_TOPIC_CLAIM_LABEL	Обращение к себе
+UI_TOPIC_PREFIX_LABEL	Присказка в начале
+UI_TOPIC_SUFFIX_LABEL	Присказка в конце
+UI_TOPIC_CASUALREMARK_LABEL	Коронная фраза
+UI_TOPIC_NAMEFORPLAYER_LABEL	Как они называют тебя
+UI_TOPIC_NAMEFORWINDOW_LABEL	Как они называют рабочий стол
+UI_TOPIC_DRINK_WATER_LABEL	Напоминание о воде
+UI_TOPIC_EYE_REMINDER_LABEL	Напоминание о глазах
+UI_TOPIC_REMIND_EXERCISE_LABEL	Напоминание о зарядке
+UI_TOPIC_DREAM_LABEL	Напоминание об отдыхе
+UI_TOPIC_RELATIVE_NICKNAME_LABEL	Личное прозвище для {OC2.ocname}
+UI_TOPIC_PEOPLE_TYPE	Люди
+UI_TOPIC_ITEM_TYPE	Предметы
+UI_TOPIC_EVENT_TYPE	События
+UI_TOPIC_ROLENAME	Имя персонажа
+UI_TOPIC_VERBALTIC	Манера речи
+UI_TOPIC_GLOBALSETTING	Общие настройки
+UI_TOPIC_TOPICSETTING	Настройки тем
+UI_TOPIC_INPUTTIPS	Введите, что будут обсуждать персонажи...
+OC_DEFAULT_NAME	Аноним
+UI_ONLINE_MODE	Онлайн-режим
+UI_CREATE_ROOM	Создать комнату
+UI_ENTER_ROOM_ID	Введите ID комнаты
+UI_JOIN_ROOM	Войти
+UI_LOBBY	Лобби
+UI_ROOM_NAME	Название комнаты
+UI_ROOM_PASSWORD	Пароль комнаты
+UI_LOBBY_VISIBLE	Показывать в лобби
+UI_OPTIONAL	Необязательно
+UI_ROOM_ID	ID комнаты
+UI_CHARACTER	Персонаж
+UI_MEMBER	Участник
+UI_LEADERBOARD	Рейтинг
+UI_ENTER_XXX_ROOM	Войти в комнату {0}
+UI_ENTER_ROOM_PASSWORD	Введите пароль комнаты
+UI_ROOM_DISBANDED_OR_ID_ERROR	Комната расформирована или ID неверен
+UI_ROOM_FULL	Комната заполнена
+UI_PASSWORD_ERROR_RETRY	Неверный пароль, попробуйте снова
+UI_CONNECTION_TIMEOUT	Время соединения истекло. Проверьте сеть и повторите попытку
+UI_SKILL_TYPE_TIPS	Что подарить {OcName}?
+UI_SKILL_RESERVE_TIPS	Очки навыков сохранятся при выходе
+UI_SKILL_LEARN_TIPS	Выберите {Type} для изучения...
+UI_EMPTY_WARNING	Не может быть пустым
+UI_SKILL_TOPIC_TIPS	Введите {Type}
+OC_LEARN_ACT_DIALOGUE	Я чувствую, что теперь во мне больше индивидуальности
+OC_LEARN_TOPIC_DIALOGUE	Я знал это
+ACT_STANDING_A	Стоять
+ACT_STANDING_B	Стоять прямо
+ACT_STANDING_C	Стойко, как сосна
+ACT_STANDING_D	Стоять гордо
+ACT_STANDING_E	Покачивание
+ACT_STANDING_F	Желейное дерганье
+ACT_STANDING_G	Болеть со светящейся палочкой
+ACT_STANDING_H	Черлидинг
+ACT_WALKING_A	Ходьба
+ACT_WALKING_B	Весёлая походка
+ACT_WALKING_C	Мелкие шажки
+ACT_TOUCHING_A	Поглаживание 1
+ACT_TOUCHING_B	Поглаживание 2
+ACT_HAPPY_A	Улыбка с закрытыми глазами
+ACT_HAPPY_B	Улыбка с прищуром
+ACT_HAPPY_C	Весёлый танец
+ACT_HAPPY_D	\\>w</
+ACT_HAPPY_E	Ура
+ACT_HAPPY_F	>Ура<
+ACT_HAPPY_I	Ха-ха
+ACT_HAPPY_SMILE	Ухмылка
+ACT_HAPPY_SMILE2	Улыбка
+ACT_HAPPY_SMILE3	Немного радости
+ACT_SAD_A	Надулся
+ACT_SAD_B	Закрыть лицо
+ACT_SAD_C	Плач
+ACT_SAD_D	Без слов
+ACT_SAD_E	Грусть
+ACT_SAD_F	Расстройство
+ACT_SAD_G	Опустошение
+ACT_SAD_H	Печаль
+ACT_ANGRY_A	Нахмуриться
+ACT_ANGRY_B	(`A´#)33
+ACT_ANGRY_C	Бешенство
+ACT_ANGRY_D	Недовольство
+ACT_ANGRY_E	Хмурый взгляд
+ACT_ANGRY_F	Злость
+ACT_SURPRISE_A	Эм?
+ACT_SURPRISE_B	Э?
+ACT_SURPRISE_C	Хм?
+ACT_SURPRISE_D	Чавось?
+ACT_TIRED_A	Усталость
+ACT_TIRED_B	Головокружение
+ACT_TIRED_C	Изнеможение
+ACT_SHY_A	Застенчивость
+ACT_SHY_B	Смущение
+ACT_SHY_C	Стеснение
+ACT_SHY_D	Стесняшка
+ACT_SHY_E	Стеснительное покачивание головой
+ACT_SHY_F	Польщён
+ACT_SHY_G	Румянец
+ACT_SHY_H	Растерянное смущение
+ACT_PROND_A	Хихиканье
+ACT_PROND_B	>Хихиканье<
+ACT_PROND_C	Гордость
+ACT_PROND_D	Самодовольство
+ACT_CONFUSE_A	o O?
+UI_SKILL_LEARN	Изучить
+UI_SKILL_ACQUIRED	Изучено
+UI_CHANGE_PRESET_TIPS	Текущий набор не сохранён. Точно переключить набор?
+UI_SELLABLE	Можно продать
+UI_NOT_SELLABLE	Нельзя продать
+UI_CRAFTABLE	Можно использовать в создании
+UI_NOT_CRAFTABLE	Нельзя использовать в создании
+UI_STEAM_MARKET	Рынок
+UI_STEAM_MARKET_DESC	Сокровища редкости «Редкий» и выше можно продавать на торговой площадке Steam
+UI_STEAM_MARKET_INVENTORY	Инвентарь
+UI_STEAM_MARKET_MARKET	Рынок
+UI_ACT_SPEND_SKILLPOINT_TIPS	Потратить {count} очков навыков на изучение этого действия?
+UI_RETURN	Назад
+UI_OCPROFILE_SPEND_SKILLPOINT_TIPS	Потратить {count} очков навыков на изучение этой настройки?
+UI_TOPIC_IDENTITY_LABEL	Статус
+UI_TOPIC_FAVORITE_FOOD_LABEL	Любимая еда
+UI_TOPIC_INPUT_IDENTITY	Введите статус {OC1.name}
+UI_TOPIC_INPUT_NICKNAME	Введите прозвище {OC1.name}
+UI_TOPIC_INPUT_CLAIM	Введите, как {OC1.name} называет себя
+UI_TOPIC_INPUT_PREFIX	Введите присказку {OC1.name} в начале диалога
+UI_TOPIC_INPUT_SUFFIX	Введите присказку {OC1.name} в конце диалога
+UI_TOPIC_INPUT_CASUAL	Введите, что {OC1.name} иногда говорит
+UI_TOPIC_INPUT_DRINK_WATER	Введите напоминание {OC1.name} о воде
+UI_TOPIC_INPUT_OWNER	Введите, как {OC1.name} обращается к вам
+UI_TOPIC_INPUT_WORLD	Введите, как персонажи называют рабочий стол
+UI_TOPIC_INPUT_RELATION_RELATIVE	Введите, кем {OC2.ocname} приходится {OC1.ocname}
+UI_TOPIC_INPUT_DREAM	Введите напоминание {OC1.name} об отдыхе
+UI_TOPIC_UNLOCK_NOTIFY_OC	Открыта настройка персонажа
+UI_TOPIC_UNLOCK_NOTIFY_PLAYER	Открыта настройка персонажа
+UI_TOPIC_UPDATE_NOTIFY_OC	Настройка персонажа обновлена
+UI_TOPIC_UPDATE_NOTIFY_PLAYER	Настройка персонажа обновлена
+UI_TOPIC_MEET_NOTIFY_OC	Знакомство {OC1.name} и {Target}
+DIALOGUE_SET_IDENTITY	Так вот я кто — {OC1.identity}... Я же знал, что я не простой {OC1.suf}
+UI_TOPIC_FAVOR_THING_LABEL	Любимое занятие
+UI_TOPIC_GREETING_LABEL	Приветствие
+UI_TOPIC_THANKS_LABEL	Фраза благодарности
+UI_TOPIC_BYE_LABEL	Прощание
+UI_TOPIC_ANGRY_LABEL	Слова злости
+UI_TOPIC_EATING_LABEL	Перед едой
+UI_TOPIC_SKILL_THING_LABEL	Особая способность
+UI_TOPIC_RELATION_RELATIVE_LABEL	Отношения
+UI_TOPIC_RELATION_THING_LABEL	Что мы делаем вместе с {OC2.ocname}
+UI_TOPIC_INPUT_GREETING	Введите приветствие {OC1.name}
+UI_TOPIC_INPUT_THANKS	Введите, как {OC1.name} благодарит
+UI_TOPIC_INPUT_BYE	Введите прощание {OC1.name}
+UI_TOPIC_INPUT_ANGRY	Введите, что {OC1.name} говорит, когда злится
+UI_TOPIC_INPUT_EATING	Введите, что {OC1.name} говорит перед едой
+UI_TOPIC_INPUT_SKILL_THING	Введите особую способность {OC1.name}
+UI_TOPIC_INPUT_RELATION_THING	Введите, что {OC1.ocname} и {OC2.ocname} делают вместе
+UI_TOPIC_INPUT_EYE_REMINDER	Введите напоминание {OC1.name} об отдыхе для глаз
+UI_TOPIC_INPUT_REMIND_EXERCISE	Введите напоминание {OC1.name} о разминке
+UI_TOPIC_INPUT_RELATIVE_NICKNAME	Введите особое прозвище, которое {OC1.ocname} использует для {OC2.ocname}
+DIALOGUE_SET_FAVOR_THING	{OC1.favor.thing}... Обожаю это {OC1.suf}
+DIALOGUE_SET_GREETING	{OC1.hi} {OC1.owner}... это так на меня похоже {OC1.suf}
+DIALOGUE_SET_THANKS	{OC1.thanks}... ага, это так на меня похоже {OC1.suf}
+DIALOGUE_SET_BYE	{OC1.bye}... даже мои прощания с характером {OC1.suf}
+DIALOGUE_SET_ANGRY	{OC1.angry}... ага, это так на меня похоже {OC1.suf}
+DIALOGUE_SET_EATING	{OC1.eating}... вот это настоящий ритуал, обожаю {OC1.suf}
+DIALOGUE_SET_RELATION_RELATIVE	{OC2.name} — мой {OC1.people.relative}... я буду беречь эту связь {OC1.suf}
+DIALOGUE_SET_RELATION_THING	Сейчас позову {OC2}, и пойдём вместе {OC1.people.thing} {OC1.suf}
+DIALOGUE_SET_SKILL_THING	{OC1.skill.thing}? Классная способность — выходит, я ещё и крут {OC1.suf}
+DIALOGUE_SET_DRINK_WATER	Понятно. В следующий раз, напоминая {OC1.owner} пить воду, скажу именно так {OC1.suf}
+DIALOGUE_SET_CAS	{OC1.cas} Сам не замечаю этого {OC1.suf}
+DIALOGUE_SET_SUF	Ладно, теперь буду говорить так {OC1.suf}
+DIALOGUE_SET_PRE	{OC1.pre} Всё больше чувствую, что говорю в своей манере {OC1.suf}
+DIALOGUE_SET_NICKNAME	Спасибо, {OC1.owner}. Мне нравится это прозвище  {OC1.suf}
+DIALOGUE_SET_WORLD	Теперь {World} — мой дом {OC1.suf}
+DIALOGUE_SET_ME	Мне очень нравится, как я себя называю {OC1.suf}
+DIALOGUE_SET_EYE_REMINDER	Береги глаза, даже когда я не напоминаю {OC1.suf}
+DIALOGUE_SET_REMIND_EXERCISE	{OC1.remind.exercise}. Запомню
+DIALOGUE_SET_DREAM	Отныне буду говорить: {OC1.dream}
+DIALOGUE_SET_RELATIVE_NICKNAME	{OC2.relative.nickname}? Звучит здорово. Спасибо, {OC1.owner} {OC1.suf}
+DIALOGUE_SET_PERSONALITY	{OC1.personality}... Вот, значит, каким я кажусь {OC1.owner} {OC1.suf}
+DIALOGUE_SET_HOMETOWN	В последнее время всё думаю о жизни в {OC1.hometown} {OC1.suf}
+DIALOGUE_SET_HATE_THING	Каждый раз, когда приходит время {OC1.hate.thing}, нет никакого настроения {OC1.suf}
+DIALOGUE_SET_FAVORITE_FOOD	Да, я правда обожаю {OC1.favorite.food} {OC1.suf}
+DIALOGUE_SET_HATE_FOOD	Правда, терпеть не могу {OC1.hate.food} {OC1.suf}
+DIALOGUE_SET_PEOPLE_PASTIMPRESSION	{OC1.people.pastimpression}... и правда похоже на то, как я вижу {OC2.name} {OC1.suf}
+DIALOGUE_HOLD_NICKNAME	Так обычно зовут {OC1.name} друзья...
+DIALOGUE_HOLD_CLAIM	Я, мне, сам... как персонаж называет себя?
+DIALOGUE_HOLD_PREFIX	Небольшая разминка перед речью
+DIALOGUE_HOLD_SUFFIX	Маленький хвостик в конце каждой фразы
+DIALOGUE_HOLD_CASUAL	Говорится время от времени
+DIALOGUE_HOLD_IDENTITY	Пропуск, который мир выдаёт каждому
+DIALOGUE_HOLD_FAVOR_THING	Маленький вор времени
+DIALOGUE_HOLD_GREETING	Фраза, открывающая разговор
+DIALOGUE_HOLD_THANKS	Легко сказать, тепло услышать
+DIALOGUE_HOLD_BYE	Печать «спокойной ночи» на этой встрече
+DIALOGUE_HOLD_ANGRY	Сигнал тревоги среди эмоций
+DIALOGUE_HOLD_EATING	Маленький ритуал перед едой
+DIALOGUE_HOLD_OWNER	Как ты хочешь, чтобы персонаж тебя называл?
+DIALOGUE_HOLD_WORLD	Название для этого маленького мира
+DIALOGUE_HOLD_RELATION_RELATIVE	Кто для {OC1.ocname} {OC2.ocname}?
+DIALOGUE_HOLD_RELATION_THING	Самая часто перечитываемая страница памяти
+DIALOGUE_HOLD_SKILL_THING	Что персонаж умеет лучше всего
+DIALOGUE_HOLD_DRINK_WATER	Сигнал SOS изнутри организма
+DIALOGUE_HOLD_EYE_REMINDER	Просьба глаз об отдыхе
+DIALOGUE_HOLD_REMIND_EXERCISE	Слова, которые стулья не желают слышать
+DIALOGUE_HOLD_DREAM	Слова, которые ставят паузу в суетные дни
+DIALOGUE_HOLD_RELATIVE_NICKNAME	Как {OC1.ocname} обычно называет {OC2.ocname}...
+Tutorial_1001_1	Ай, почему я голышом?!
+Tutorial_1001_2	И ещё, у меня, оказывается, голова лысая...
+Tutorial_1001_3	Ты можешь мне помочь?
+Tutorial_1001_4	Спасибо! Мне очень нравится, как я теперь выгляжу
+Tutorial_1001_5	Здесь можно настроить мой цвет кожи и внешность
+Tutorial_1001_6	А здесь можно посмотреть более подробные категории для каждой части
+Tutorial_1001_7	Используйте меню слева, чтобы перейти к переодеванию
+Tutorial_1003_1	Смотри, подарок! Давай откроем!
+Tutorial_1003_2	Это волшебная шляпа!
+Tutorial_1003_3	Коробка с подарком появляется каждые <color=#EF4E4E>30 минут</color>. Если найдёшь что-то понравившееся, примерь!
+Tutorial_1005_1	Нажми <color=#EF4E4E>правой кнопкой мыши</color> на меня, и я смогу составить компанию {OC1.owner} во время печати
+Tutorial_1005_2	Вот так, именно так\nКаждый раз, когда ты нажимаешь клавишу или кнопку мыши, я буду считать это за тебя
+Tutorial_1005_3	Нажми <color=#EF4E4E>правой кнопкой мыши</color> ещё раз, и я встану
+Tutorial_1005_4	Хорошо
+Tutorial_1005_5	Не надо
+Tutorial_1005_6	{OC1.owner}, хочешь, я буду печатать вместе с тобой?\n(После согласия включится подсчёт нажатий клавиш)
+Tutorial_1006_1	За повышение уровня ты получил 1 <color=#EF4E4E>очко навыков персонажа</color>! Открой <color=#EF4E4E>выражение радости</color>~
+Tutorial_1006_2	Нажми здесь, чтобы выбрать тип действия или выражения для открытия
+Tutorial_1006_3	Нажми здесь, чтобы потратить очко навыков и открыть выражение
+Tutorial_1006_4	Похоже, {OC1.owner} освоил искусство делать персонажа неповторимым! Дальше исследуй сам~
+TOPIC_CLAIM	Я
+TOPIC_EATING	{OC1.me} приступает!
+TOPIC_PLAYER	Ты
+TOPIC_WINDOW	Рабочий стол
+TOPIC_DRINKWATER	Не забывай пить воду {OC1.suf}
+TOPIC_EYEREMIND	{OC1.owner}, иногда давай глазам отдохнуть {OC1.suf}
+TOPIC_EXERCISEREMIND	{OC1.owner}, не забывай иногда размяться {OC1.suf}
+TOPIC_DREAM	Уже поздно. {OC1.owner}, хорошенько отдыхай {OC1.suf}
+TOPIC_GREETING	Привет!
+TOPIC_THANKS	Спасибо~
+TOPIC_BYE	Пока~
+GIFT_HELP_THANKS	{OC1.thanks}
+INTERACT_BYE	{OC1.bye}
+UI_CHANGE_COLOR_FIRST	Начнём с изменения цвета!
+UI_INTERACT_IN_PROGRESS	Общение...
+UI_INTERACT_STRANGERS_TITLE	Они всё ещё незнакомы...
+UI_INTERACT_SELECT_TITLE	Чем займёмся?
+UI_INTERACT_LOCK_NEED_RELATION	Открывается после установления связи
+UI_INTERACT_NAME_HELLO	Поздороваться
+UI_INTERACT_NAME_TALK	Поболтать
+UI_INTERACT_NAME_TIETIE	Прижаться
+UI_INTERACT_NAME_ARGUE	Поспорить
+UI_INTERACT_NAME_DANCE	Танцевать
+UI_INTERACT_RELATION_CONFIRM_LINE1	{0} и {1} отлично ладят. Установить между ними связь?
+UI_INTERACT_RELATION_CONFIRM_CANCEL	Подождать ещё
+UI_INTERACT_RELATION_CONFIRM_OK	Установить связь
+UI_INTERACT_RELATION_ESTABLISHED	{0} и {1} установили связь
+UI_INTERACT_RELATION_ESTABLISHED_SUB	Записано в настройки друг друга
+UI_INTERACT_RELATION_DECLINED	Пока останемся незнакомцами…
+INTERACT_HI	{OC1.hi}
+INTERACT_ME	{OC1.me} — {OC1.ocname}
+INTERACT_INDENTITY	Я — {OC1.identity}
+INTERACT_SAYHI	{OC1.hi} {OC2.name}
+INTERACT_TALK_LINE	{OC1.cas}
+INTERACT_TALK_LINE_CAS	{OC1.cas}
+INTERACT_TALK_LINE_1	Ладно
+INTERACT_TALK_LINE_2	Понятно
+INTERACT_TALK_LINE_3	Ох
+INTERACT_TALK_LINE_4	Хорошо
+INTERACT_TALK_LINE_5	Да-да-да
+UI_INTERACT_PEEK_BUTTON	О чём они болтают?
+UI_INTERACT_PEEK_BADGE	Слушать внимательно
+UI_INTERACT_PEEK_INTRO	Похоже, болтают
+UI_INTERACT_PEEK_CLOSE	Нажмите, чтобы закрыть
+UI_OC_NEW_VERBALTIC	Новое
+UI_PROFILE_DELETE_RELATIONSIP_TIPS	Точно удалить эту связь?\nПосле удаления персонаж исчезнет из настроек обоих\nЭто действие нельзя отменить
+UI_OCPROFILE_BASE_TITLE	Основные сведения
+UI_OCPROFILE_RELATIVES_TITLE	Круг общения {name}
+UI_OCPROFILE_RELATIONSHIP_TITLE	Отношения с {name}
+UI_TOPIC_INPUT_TIPS	Введите самостоятельно…
+UI_SKILLPOINT	Очко навыков
+UI_ALL	Все
+UI_COMPOSITE_INCLUE_DRESSED	Включая надетые
+UI_COMPOSITE_INCLUE_ONLY_ONE	Включая одиночные предметы
+UI_ACTION_USING	Используется
+UI_ACTION_NOT_USING	Не используется
+UI_OCPROFILE_EMPTY_TIPS	Нет
+UI_OCPROFILE_RELATIVE_TIPS	Перетащите персонажей друг к другу и нажмите [Поздороваться], чтобы они познакомились
+UI_OCPROFILE_RELATIVE_TIPS2	Демо-версия поддерживает установку связей только между локальными персонажами
+UI_INTERACT_WISHLIST_TIPS	В демо-версии пока нельзя устанавливать связи с онлайн-персонажами. Следите за полной версией. Спасибо!
+UI_INTERACT_JUMP_TIPS	Перейти к настройкам отношений {0} и {1}?
+UI_INTERACT	Взаимодействие
+UI_MOVIE	Мини-театр
+UI_CLOSE_BTN	Закрыть
+UI_BOND_BTN	Связать
+UI_WISHLIST_BTN	В список желаний
+UI_ACT_DETAIL_TITLE	Условие срабатывания
+UI_ACT_TITLE_0	Базовые действия
+UI_ACT_DETAIL_0	Стоит / идёт / спит / его гладят
+UI_ACT_TITLE_1	Радость
+UI_ACT_DETAIL_1	Находка сокровища / еда / общение с персонажами / нажатие на персонажа / печать в режиме «Сидим рядом»
+UI_ACT_TITLE_2	Грусть
+UI_ACT_DETAIL_2	Еда / общение
+UI_ACT_TITLE_3	Удивление
+UI_ACT_DETAIL_3	Общение / нажатие на персонажа / пробуждение
+UI_ACT_TITLE_4	Злость
+UI_ACT_DETAIL_4	Общение / печать в режиме «Сидим рядом»
+UI_ACT_TITLE_5	Застенчивость
+UI_ACT_DETAIL_5	Когда его гладят / общение
+UI_ACT_TITLE_6	Усталость
+UI_ACT_DETAIL_6	Печать в режиме «Сидим рядом»
+UI_ACT_TITLE_7	Самодовольство
+UI_ACT_DETAIL_7	Повышение уровня персонажа
+UI_ACT_TITLE_8	Особые
+UI_ACT_DETAIL_8	Простой / нажатие на персонажа
+UI_ACT_TITLE_9	Действие по умолчанию
+UI_ACT_DETAIL_9	Стандартные выражения и позы\nЕсли новые действия не изучены и не установлены, персонаж будет выполнять действия по умолчанию
+UI_TOPIC_INPUT_PERSONALITY	Введите характер {OC1.name}
+UI_TOPIC_INPUT_HOMETOWN	Введите место происхождения {OC1.name}
+UI_TOPIC_INPUT_FAVOR_THING	Введите, что {OC1.name} любит делать
+UI_TOPIC_INPUT_HATE_THING	Введите, что {OC1.name} не любит делать
+UI_TOPIC_INPUT_FAVORITE_FOOD	Введите любимую еду {OC1.name}
+UI_TOPIC_INPUT_HATE_FOOD	Введите нелюбимую еду {OC1.name}
+UI_TOPIC_INPUT_PEOPLE_PASTIMPRESSION	Введите первое впечатление {OC1.ocname} о {OC2.ocname}
+UI_TOPIC_PERSONALITY_LABEL	Характер
+UI_TOPIC_HOMETOWN_LABEL	Место происхождения
+UI_TOPIC_HATE_THING_LABEL	Нелюбимые занятия
+UI_TOPIC_HATE_FOOD_LABEL	Нелюбимая еда
+UI_TOPIC_PEOPLE_PASTIMPRESSION_LABEL	Первое впечатление о {OC2.ocname}
+DIALOGUE_HOLD_PERSONALITY	Ярлык для души
+DIALOGUE_HOLD_HOMETOWN	Где начинается история — стартовый город персонажа
+DIALOGUE_HOLD_HATE_THING	Всегда последний пункт в списке
+DIALOGUE_HOLD_FAVORITE_FOOD	Иногда желудок честнее сердца
+DIALOGUE_HOLD_HATE_FOOD	Вето от вкусовых рецепторов
+DIALOGUE_HOLD_PEOPLE_PASTIMPRESSION	Маленький портрет, нарисованный в голове
+UI_SETTING_CARD_TIPS	Очки навыков не нужны
+UI_INSTRUCTION_COMPOSE_TITLE	Создание
+UI_INSTRUCTION_COMPOSE_DETAIL	Создайте 1 предмет более высокого уровня из 10 предметов одного уровня. Создание нельзя отменить
+UI_INSTRUCTION_SKILLPIONT_TITLE	Очки навыков
+UI_INSTRUCTION_GET_CONDITION	Как получить
+UI_INSTRUCTION_SKILLPIONT_DESC	У каждого персонажа свои очки навыков, их можно тратить на открытие действий и настроек
+UI_INSTRUCTION_SKILLPIONT_DETAIL	Повышение уровня персонажа
+UI_INSTRUCTION_LV_TITLE	Уровень персонажа
+UI_INSTRUCTION_LV_DESC	Ставьте персонажа на рабочий стол, чтобы он получал опыт и очки навыков при повышении уровня
+UI_INSTRUCTION_LV_DETAIL_1	Персонажи едят и спят
+UI_INSTRUCTION_LV_DETAIL_2	Просмотр причуд персонажа
+UI_INSTRUCTION_LV_DETAIL_3	Взаимодействие персонажей
+UI_INSTRUCTION_RELATIVE_DESC	Экран отношений, где можно редактировать настройки между персонажами
+UI_INSTRUCTION_RELATIVE_CINDITON	Область действия
+UI_INSTRUCTION_RELATIVE_DETAIL_1	Взаимодействие персонажей
+UI_INSTRUCTION_RELATIVE_DETAIL_2	Мини-театр персонажей
+UI_WISHLIST_TIPS_1	Если вам нравится <color=#DC6363>Character House -Desktop Companion-</color>, нажмите <color=#DC6363>Добавить в список желаний</color>. Ваша поддержка помогает нам двигаться дальше, спасибо~
+UI_WISHLIST_TIPS_2	Демо-версия поддерживает до 4 персонажей
+UI_WISHLIST_TIPS_3	Демо-версия пока не поддерживает онлайн-функции
+UI_WISHLIST_TIPS_4	Функция пользовательской загрузки активно разрабатывается и, как ожидается, появится в демо-версии в октябре.
+UI_TUTORIAL_CLICK_HERE	Нажмите здесь
+UI_GIVEUP	Отказаться
+UI_SETTTING_CARD_CONFIRM	Настроить
+DIALOGUE_HOLD_SETTINGCARD_TIPS	{OC1.ocname} получает карточку настройки!
+UI_UNLOCK	Открыть
+UI_FULL_VERSION	Полная версия
+UI_ADD_WISHLIST	Добавить в список желаний
+UI_EXIT_APPLICATION	Подтвердить выход
+UI_MOVIE_1_TITLE	Ночные страхи
+UI_MOVIE_2_TITLE	Испытание совместимости
+UI_MOVIE_3_TITLE	Ежедневное гадание
+UI_MOVIE_4_TITLE	Под цветущей сакурой
+UI_MY_CHARACTERS	Мои персонажи
+UI_CUSTOM	Своё
+UI_FRAMERATE	Частота кадров
+UI_RESET_LOCATION	Сбросить положение
+UI_SWITCH_TOPMOST_MODE	Переключить режим «поверх окон»
+UI_KEYSTROKE_COUNTING	Подсчёт нажатий
+UI_SLOT_BODY_BASE	Торс
+UI_SLOT_LEFT_ARM	Правая рука
+UI_SLOT_RIGHT_ARM	Левая рука
+UI_SLOT_LEFTHAND	Правая кисть
+UI_SLOT_RIGHTHAND	Левая кисть
+UI_SLOT_RIGHTLEG_BASE	Левая нога
+UI_SLOT_LEFTLEG_BASE	Правая нога
+UI_SLOT_CLOTH	Верх торса
+UI_SLOT_SLEEVE_RIGHT	Левый рукав
+UI_SLOT_SLEEVE_LEFT	Правый рукав
+UI_SLOT_CUFF_RIGHT	Низ левого рукава
+UI_SLOT_CUFF_LEFT	Низ правого рукава
+UI_SLOT_TIE	Декор одежды
+UI_SLOT_COAT	Торс верхней одежды
+UI_SLOT_SLEEVE_R_COAT	Левый рукав верхней одежды
+UI_SLOT_SLEEVE_L_COAT	Правый рукав верхней одежды
+UI_SLOT_COAT_BACK	Спина верхней одежды
+UI_SLOT_CUFF_COAT_RIGHT	Низ левого рукава верхней одежды
+UI_SLOT_CUFF_COAT_LEFT	Низ правого рукава верхней одежды
+UI_SLOT_RIGHTWING	Левое крыло
+UI_SLOT_LEFTWING	Правое крыло
+UI_SLOT_BELT	Аксессуар на спине
+UI_SLOT_PANTS	Бедро брюк
+UI_SLOT_TROUSER_RIGHT	Левая штанина
+UI_SLOT_TROUSER_LEFT	Правая штанина
+UI_SLOT_SOCK_PANTS	Верх носков
+UI_SLOT_SOCK_RIGHT	Левый носок
+UI_SLOT_SOCK_LEFT	Правый носок
+UI_SLOT_TAIL	Хвост
+UI_SLOT_GLOVE_LEFT	Правая перчатка
+UI_SLOT_GLOVE_RIGHT	Левая перчатка
+UI_SLOT_SHOE_RIGHT	Левый ботинок
+UI_SLOT_SHOE_LEFT	Правый ботинок
+UI_SLOT_FACE_ACCESSORY	Аксессуар для лица
+UI_SLOT_EARRING_RIGHT	Левая серьга
+UI_SLOT_EARRING_LEFT	Правая серьга
+UI_SLOT_HALO	Ореол
+UI_SLOT_HAT	Передняя часть шляпы
+UI_SLOT_HAT_BEHIND	Задняя часть шляпы
+UI_SLOT_MASK	Маска
+UI_SLOT_FRONT_HAIR	Передние волосы
+UI_SLOT_BEHIND_HAIR	Задние волосы
+UI_SLOT_TEMPLE_RIGHT	Левый висок
+UI_SLOT_TEMPLE_LEFT	Правый висок
+UI_SLOT_TEMPLE_LEFT_SHADOW	Тень правого виска
+UI_SLOT_PLAIT_RIGHT	Левая коса
+UI_SLOT_PLAIT_LEFT	Правая коса
+UI_SLOT_DUMBHAIR	Ахоге
+UI_SLOT_REFLECTION	Блеск волос
+UI_SLOT_HIGHLIGHTING_A	Мелирование A
+UI_SLOT_HIGHLIGHTING_B	Мелирование B
+UI_SLOT_HIGHLIGHTING_C	Мелирование C
+UI_SLOT_EYEBROW_RIGHT	Левая бровь
+UI_SLOT_EYEBROW_LEFT	Правая бровь
+UI_SLOT_MOUTH	Рот
+UI_SLOT_EYESLINE_RIGHT	Левые ресницы
+UI_SLOT_EYESLINE_LEFT	Правые ресницы
+UI_SLOT_EYE_SHADOW_RIGHT	Левая глазница
+UI_SLOT_EYE_SHADOW_LEFT	Правая глазница
+UI_SLOT_EYES_RIGHT	Левый глаз
+UI_SLOT_EYES_LEFT	Правый глаз
+UI_SLOT_EAR_RIGHT	Левое ухо
+UI_SLOT_EAR_LEFT	Правое ухо
+UI_SLOT_FACE	Лицо
+UI_SLOT_FRECKLES_A	Шрам A
+UI_SLOT_FRECKLES_B	Шрам B
+UI_SLOT_FRECKLES_C	Шрам C
+UI_SLOT_BEARD	Борода
+UI_SLOT_BEAST_EAR_RIGHT	Левое звериное ухо
+UI_SLOT_BEAST_EAR_LEFT	Правое звериное ухо
+UI_SLOT_BODY_HIP	Бёдра
+UI_SLOT_EYELINER_RIGHT	Левая подводка
+UI_SLOT_EYELINER_LEFT	Правая подводка
+UI_SLOT_FRONT_HAIR_SHADOW	Тень передних волос
+UI_SLOT_FACE_SHADOW	Тень на лице
+UI_SLOT_PUPIL_RIGHT	Левый зрачок
+UI_SLOT_PUPIL_LEFT	Правый зрачок
+UI_SLOT_PONYTAIL	Хвост
+UI_SLOT_TROUSER_FRONT_RIGHT	Левая передняя часть штанов
+UI_SLOT_TROUSER_FRONT_LEFT	Правая передняя часть штанов
+UI_SLOT_HAIR_ACC_FRONT	Передний аксессуар для волос
+UI_SLOT_HAIR_ACC_BEHIND	Задний аксессуар для волос
+UI_CUSTOM_IMAGE_TIPS	Поддерживаются только PNG-изображения 600*600!
+UI_CUSTOM_TUTO_TIPS	Руководство по своим деталям
+UI_BACKPACKDATA_BROKEN_WARING	Данные о подарках <color=#DC6363>серьёзно повреждены</color>. Если не сбросить их, игра <color=#DC6363>не будет работать корректно</color>.\nПосле сброса полученные подарки будут потеряны.\nМы понимаем, что подарки нелегко получить, и это сильно портит впечатление от игры. Однако сейчас это единственный способ заставить игру работать нормально. Приносим искренние извинения за неудобства.\nВ этом обновлении система сохранений оптимизирована, чтобы снизить вероятность подобных проблем.
+UI_OCDATA_BROKEN_WARING	Данные персонажей <color=#DC6363>серьёзно повреждены</color>. Если не сбросить их, игра <color=#DC6363>не будет работать корректно</color>.\nПосле сброса данные внешности персонажей будут утеряны.\nМы понимаем, что повторное создание персонажа и заново прокачка сильно портят впечатление от игры. Мы также пробовали множество способов исправить это, но сейчас это единственный вариант, при котором игра работает нормально. Приносим искренние извинения за неудобства.\nМы оптимизировали систему сохранений, чтобы снизить вероятность подобных проблем.
+UI_PLAYERDATA_BROKEN_WARING	Данные игрока <color=#DC6363>повреждены</color>. Если не сбросить их, игра <color=#DC6363>не будет работать корректно</color>.\nПосле сброса настройки и данные счётчиков будут утеряны.\nМы оптимизировали систему сохранений, чтобы снизить вероятность подобных проблем.
+UI_SILENT_MODE_LABEL	Тихий режим
+UI_SILENT_MODE_TIPS	Персонажи больше не будут сами инициировать голод, настройки или приветствия (опыт по-прежнему можно получать через взаимодействие двух персонажей)
+TOPIC_NAMEFOROWNER	{Owner}
+IMG_CREATEROLE_CONFIRM	Добавить нового персонажа
+IMG_1001_OPENING	Хорошо бы, чтобы кто-нибудь составил мне компанию...
+IMAGINATION_4	Пройдём небольшой тест?
+IMG_CONFIRM	Ладно!
+IMG_CANCEL	Может, в другой раз
+IMG_OPENING_CANCEL_RESP	Эх... ну тогда подожду, пока {OC1.owner} освободится.
+FOOD_CONFIRM	Пора поесть
+FOOD_CANCEL	Потом
+FOOD_EAT_START	Пора приступать!
+SLEEP_CANCEL	Ещё немного посплю
+SHY_CONFIRM	Ну-ка, послушаем
+SHY_CANCEL	Может, в другой раз
+SAYHI_1	{OC1.hi}, {OC2.name}!
+SAYING_1	Недавние события
+SAYING_1_1	Общие любимые вещи
+SAYING_1_2	Недавние увлечения
+SAYING_1_3	Что произошло сегодня
+SAYING_1_4	Что у нас общего
+SAYING_1_5	Правила: {OC1.favor.thing}
+SAYING_1_6	Правила: {OC2.favor.thing}
+SAYING_1_7	Как освоить {OC1.favor.thing}
+SAYING_1_8	Как освоить {OC2.favor.thing}
+SAYING_1_9	Первый раз: {OC1.favor.thing}
+SAYING_1_10	Первый раз: {OC2.favor.thing}
+SAYING_1_11	Тонкости {OC1.favor.thing}
+SAYING_1_12	Тонкости {OC2.favor.thing}
+SAYING_1_13	Посвящение в {OC1.favor.thing}
+SAYING_1_14	Посвящение в {OC2.favor.thing}
+SAYING_1_15	Фирменные трюки: {OC1.skill.thing}
+SAYING_1_16	Фирменные трюки: {OC2.skill.thing}
+SAYING_1_17	Когда обнаружилось, что умеешь {OC1.skill.thing}
+SAYING_1_18	Когда обнаружилось, что умеешь {OC2.skill.thing}
+SAYING_1_19	Использовать {OC1.skill.thing} ради шалости
+SAYING_1_20	Использовать {OC2.skill.thing} ради шалости
+SAYING_1_21	Учим партнёра: {OC1.skill.thing}
+SAYING_1_22	Учим партнёра: {OC2.skill.thing}
+SAYING_1_23	Что будет, если {OC1.skill.thing} не получится
+SAYING_1_24	Что будет, если {OC2.skill.thing} не получится
+SAYING_1_25	Укромные магазинчики с {OC1.favorite.food}
+SAYING_1_26	Укромные магазинчики с {OC2.favorite.food}
+SAYING_1_27	Как изящно есть {OC1.favorite.food}
+SAYING_1_28	Как изящно есть {OC2.favorite.food}
+SAYING_1_29	Кулинарные секреты: {OC1.favorite.food}
+SAYING_1_30	Кулинарные секреты: {OC2.favorite.food}
+SAYING_1_31	Застольный этикет: {OC1.favorite.food}
+SAYING_1_32	Застольный этикет: {OC2.favorite.food}
+SAYING_1_33	Тайные способы есть {OC1.favorite.food}
+SAYING_1_34	Тайные способы есть {OC2.favorite.food}
+SAYING_1_35	Что лучше всего сочетается с {OC1.favorite.food}
+SAYING_1_36	Что лучше всего сочетается с {OC2.favorite.food}
+SAYING_1_37	Забавные истории из {OC1.hometown}
+SAYING_1_38	Забавные истории из {OC2.hometown}
+SAYING_1_39	Обычаи {OC1.hometown}
+SAYING_1_40	Обычаи {OC2.hometown}
+SAYING_1_41	Обязательный список еды в {OC1.hometown}
+SAYING_1_42	Обязательный список еды в {OC2.hometown}
+SAYING_1_43	Местные деликатесы: {OC1.hometown}
+SAYING_1_44	Местные деликатесы: {OC2.hometown}
+SAYING_1_45	Загадочные легенды {OC1.hometown}
+SAYING_1_46	Загадочные легенды {OC2.hometown}
+SAYING_1_47	Откуда название «{OC1.hometown}»
+SAYING_1_48	Откуда название «{OC2.hometown}»
+SAYING_1_49	Почему стал {OC1.identity}
+SAYING_1_50	Почему стал {OC2.identity}
+SAYING_1_51	Будни: {OC1.identity}
+SAYING_1_52	Будни: {OC2.identity}
+SAYING_1_53	Что нужно, чтобы стать {OC1.identity}
+SAYING_1_54	Что нужно, чтобы стать {OC2.identity}
+SAYING_1_55	Слабое место: {OC1.identity}
+SAYING_1_56	Слабое место: {OC2.identity}
+SAYING_1_57	Фирменная экипировка: {OC1.identity}
+SAYING_1_58	Фирменная экипировка: {OC2.identity}
+SAYING_1_59	Способности, нужные, чтобы стать {OC1.identity}
+SAYING_1_60	Способности, нужные, чтобы стать {OC2.identity}
+SAYING_2	Главные новости дня
+SAYING_2_1	Чем сейчас увлекаются
+SAYING_2_2	Отношение к деньгам
+SAYING_2_3	Отношение к любви
+SAYING_2_4	Договорились в следующий раз {OC1.favor.thing} вместе
+SAYING_2_5	Договорились в следующий раз {OC2.favor.thing} вместе
+SAYING_2_6	Итоги года: {OC1.favor.thing}
+SAYING_2_7	Итоги года: {OC2.favor.thing}
+SAYING_2_8	Сколько стоит {OC1.favor.thing}
+SAYING_2_9	Сколько стоит {OC2.favor.thing}
+SAYING_2_10	Тянет на {OC1.favor.thing}
+SAYING_2_11	Тянет на {OC2.favor.thing}
+SAYING_2_12	Вершина мастерства: {OC1.favor.thing}
+SAYING_2_13	Вершина мастерства: {OC2.favor.thing}
+SAYING_2_14	Хотелось бы, чтобы все умели {OC1.skill.thing}
+SAYING_2_15	Хотелось бы, чтобы все умели {OC2.skill.thing}
+SAYING_2_16	99 способов применить {OC1.skill.thing}
+SAYING_2_17	99 способов применить {OC2.skill.thing}
+SAYING_2_18	Ограничения использования {OC1.skill.thing}
+SAYING_2_19	Ограничения использования {OC2.skill.thing}
+SAYING_2_20	Лучший в мире в {OC1.skill.thing}
+SAYING_2_21	Лучший в мире в {OC2.skill.thing}
+SAYING_2_22	Можно ли одолжить {OC1.skill.thing} другому
+SAYING_2_23	Можно ли одолжить {OC2.skill.thing} другому
+SAYING_2_24	Использовать {OC1.skill.thing} ради шалости
+SAYING_2_25	Использовать {OC2.skill.thing} ради шалости
+SAYING_2_26	Как можно любить {OC1.hate.thing}
+SAYING_2_27	Как можно любить {OC2.hate.thing}
+SAYING_2_28	Как избежать {OC1.hate.thing}
+SAYING_2_29	Как избежать {OC2.hate.thing}
+SAYING_2_30	Группа поддержки пострадавших от {OC1.hate.thing}
+SAYING_2_31	Группа поддержки пострадавших от {OC2.hate.thing}
+SAYING_2_32	Насколько же страшна {OC1.hate.thing}
+SAYING_2_33	Насколько же страшна {OC2.hate.thing}
+SAYING_2_34	Как законом запретить {OC1.hate.thing}
+SAYING_2_35	Как законом запретить {OC2.hate.thing}
+SAYING_2_36	Очарование {OC1.favorite.food}
+SAYING_2_37	Очарование {OC2.favorite.food}
+SAYING_2_38	Хочу основать фан-клуб {OC1.favorite.food}
+SAYING_2_39	Хочу основать фан-клуб {OC2.favorite.food}
+SAYING_2_40	Сходить вместе поесть {OC1.favorite.food}?
+SAYING_2_41	Сходить вместе поесть {OC2.favorite.food}?
+SAYING_2_42	Насколько же ужасен вкус {OC1.hate.food}
+SAYING_2_43	Насколько же ужасен вкус {OC2.hate.food}
+SAYING_2_44	Как держаться подальше от {OC1.hate.food}
+SAYING_2_45	Как держаться подальше от {OC2.hate.food}
+SAYING_2_46	Кому вообще нужна {OC1.hate.food}?
+SAYING_2_47	Кому вообще нужна {OC2.hate.food}?
+SAYING_2_48	Когда съездить в {OC1.hometown}
+SAYING_2_49	Когда съездить в {OC2.hometown}
+SAYING_2_50	Секретное место в {OC1.hometown}
+SAYING_2_51	Секретное место в {OC2.hometown}
+SAYING_2_52	Порядки в {OC1.hometown}
+SAYING_2_53	Порядки в {OC2.hometown}
+SAYING_2_54	Говор {OC1.hometown}
+SAYING_2_55	Говор {OC2.hometown}
+SAYING_2_56	Сколько стоит жить в {OC1.hometown}
+SAYING_2_57	Сколько стоит жить в {OC2.hometown}
+SAYING_2_58	Как отдыхает {OC1.identity}
+SAYING_2_59	Как отдыхает {OC2.identity}
+SAYING_2_60	Надеюсь в следующей жизни снова стать {OC1.identity}
+SAYING_2_61	Надеюсь в следующей жизни снова стать {OC2.identity}
+SAYING_2_62	Фирменный жест: {OC1.identity}
+SAYING_2_63	Фирменный жест: {OC2.identity}
+SAYING_2_64	Труднее всего объяснить, каково быть {OC1.identity}
+SAYING_2_65	Труднее всего объяснить, каково быть {OC2.identity}
+SAYING_2_66	Как {OC1.identity} появляется на сцене
+SAYING_2_67	Как {OC2.identity} появляется на сцене
+SAYING_2_68	Чувство гордости от того, что ты {OC1.identity}
+SAYING_2_69	Чувство гордости от того, что ты {OC2.identity}
+SAYING_2_70	Обещание в следующий раз {OC1.people.thing} вместе
+SAYING_2_71	Обещание в следующий раз {OC2.people.thing} вместе
+SAYING_2_72	Забавная история с прошлого раза, когда {OC1.people.thing} вместе
+SAYING_2_73	Забавная история с прошлого раза, когда {OC2.people.thing} вместе
+SAYING_2_74	Как обстоят дела с «{OC1.people.thing}»
+SAYING_2_75	Как обстоят дела с «{OC2.people.thing}»
+SAYING_2_76	Сотая годовщина «{OC1.people.thing}»
+SAYING_2_77	Сотая годовщина «{OC2.people.thing}»
+SAYING_2_78	Мировой рекорд по «{OC1.people.thing}»
+SAYING_2_79	Мировой рекорд по «{OC2.people.thing}»
+SAYING_3	Чувство, что тебя не замечают
+SAYING_3_1	Разные взгляды на вещи
+SAYING_3_2	Недоразумение из-за одной фразы
+SAYING_3_3	Меня что, за воздух принимают?
+SAYING_3_4	Кто должен извиниться первым
+SAYING_3_5	Что важнее: быть правым или быть вежливым
+SAYING_3_6	Кто лучше разбирается в {OC1.favor.thing}
+SAYING_3_7	Кто лучше разбирается в {OC2.favor.thing}
+SAYING_3_8	Что важнее: {OC1.favor.thing} или {OC2.name}
+SAYING_3_9	Что важнее: {OC2.favor.thing} или {OC1.name}
+SAYING_3_10	Слабость {OC1.skill.thing} слишком заметна
+SAYING_3_11	Слабость {OC2.skill.thing} слишком заметна
+SAYING_3_12	Случайно упомянул {OC1.hate.thing}
+SAYING_3_13	Случайно упомянул {OC2.hate.thing}
+SAYING_3_14	Что делать, если осталась одна штука: {OC1.favorite.food}
+SAYING_3_15	Что делать, если осталась одна штука: {OC2.favorite.food}
+SAYING_3_16	Случайно съел конфету со вкусом {OC1.hate.food}
+SAYING_3_17	Случайно съел конфету со вкусом {OC2.hate.food}
+SAYING_3_18	Обещал {OC1.people.thing}, а потом передумал
+SAYING_3_19	Обещал {OC2.people.thing}, а потом передумал
+SAYING_3_20	Кто решает, как быть с «{OC1.people.thing}»
+SAYING_3_21	Кто решает, как быть с «{OC2.people.thing}»
+IMG_1	Доброе утро, {OC1.owner} {OC1.suf}
+IMG_1_1	Сегодня будет {OC1.favorite.food}?
+IMG_2	Добрый день, {OC1.owner} {OC1.suf}
+IMG_2_1	Так хочется {OC1.favor.thing} {OC1.suf}
+IMG_3	Добрый день, {OC1.owner} {OC1.suf}
+IMG_3_1	Скоро {OC1.favor.thing} {OC1.suf}
+IMG_3_2	Пришло время {OC1.favor.thing} {OC1.suf}
+IMG_4	Добрый вечер, {OC1.owner} {OC1.suf}
+IMG_4_1	Вдруг так захотелось {OC1.favorite.food} {OC1.suf}
+IMG_4_2	{OC1.hometown} и вправду красивое название {OC1.suf}
+IMG_4_3	Стоит вспомнить {OC1.hometown}, и мне есть что сказать {OC1.suf}
+IMG_5	Доброе утро, {OC1.owner} {OC1.suf}
+IMG_6	{OC1.drink.water}
+IMG_7	{OC1.eye.reminder}
+IMG_8	{OC1.remind.exercise}
+IMG_9	{OC1.dream}
+IMG_FOOD	Что бы поесть...
+IMG_19	{OC1.name}, похоже, немного проголодался...
+IMG_19_OPT1	Гамбургер
+IMG_19_OPT1_RSP	Кажется, совершенно доволен
+IMG_19_OPT2	Яблоко
+IMG_19_OPT2_RSP	Кажется, очень понравилось
+IMG_19_OPT3	Торт
+IMG_19_OPT3_RSP	Кажется, совершенно доволен
+IMG_20	{OC1.name}, похоже, немного проголодался...
+IMG_20_OPT1	Гамбургер
+IMG_20_OPT1_RSP	Кажется, очень понравилось
+IMG_20_OPT2	Яблоко
+IMG_20_OPT2_RSP	Кажется, вкус его удивил
+IMG_20_OPT3	Торт
+IMG_20_OPT3_RSP	Кажется, вкус необычный
+IMG_21	{OC1.name}, похоже, немного проголодался...
+IMG_21_OPT1	Гамбургер
+IMG_21_OPT1_RSP	Кажется, совершенно доволен
+IMG_21_OPT2	Яблоко
+IMG_21_OPT2_RSP	Кажется, совершенно доволен
+IMG_21_OPT3	Торт
+IMG_21_OPT3_RSP	Кажется, совершенно доволен
+IMG_22	{OC1.name}, похоже, немного проголодался...
+IMG_22_OPT1	Гамбургер
+IMG_22_OPT1_RSP	Вкус... трудно описать
+IMG_22_OPT2	Яблоко
+IMG_22_OPT2_RSP	Кажется, не в восторге
+IMG_22_OPT3	Торт
+IMG_22_OPT3_RSP	Кажется, не в восторге
+IMG_70	{OC1.cas}... Ой, кажется, уже задремалось?
+IMG_70_1	{OC1.pre} Сколько времени прошло?
+IMG_70_2	{OC1.pre} Приснился {OC1.owner} {OC1.suf}
+IMG_70_4	{OC1.pre} В голове ещё немного туманно {OC1.suf}
+IMG_70_5	{OC1.pre} Только что что-то снилось {OC1.suf}
+IMG_70_7	Привет, {OC1.owner}, я уже на ногах
+IMG_70_9	Чувствую, как силы возвращаются
+IMG_70_10	Сон уже прошёл {OC1.suf}
+IMG_70_11	{OC1.cas}, я уже бодрствую {OC1.suf}
+SLEEP_CONFIRM	Разбудить
+IMG_71_OPENING	{OC1.name}, похоже, что-то снится...
+IMG_71_OPENING_2	{OC1.name}, похоже, немного устал...
+IMG_71_OPENING_3	{OC1.name} всё ещё спит...
+IMG_71_OPENING_4	{OC1.name} крепко спит...
+IMG_71_OPENING_5	Дать {OC1.name} ещё немного подремать?
+IMG_TOPIC_IDENTITY_OPENING	{OC1.owner}, как бы ты представил меня своим друзьям?
+IMG_TOPIC_THINK	Перейти к настройкам
+IMG_TOPIC_FAVOR_THING_OPENING	{OC1.name} что-то обдумывает о том, что любит делать... Настроить?
+IMG_TOPIC_GREETING_OPENING	{OC1.owner}, поможешь придумать, как мне здороваться?
+IMG_TOPIC_EATING_OPENING	{OC1.name} обдумывает, что сказать перед едой... Настроить?
+IMG_TOPIC_RELATION_RELATIVE_OPENING	{OC1.owner}, кем для меня приходится {OC2.name}? Хотелось бы услышать твоё мнение.
+IMG_TOPIC_RELATION_THING_OPENING	{OC1.ocname} вспоминает, что делал вместе с {OC2.ocname}... Настроить?
+IMG_TOPIC_NAME_FOR_PLAYER_OPENING	{OC1.name} думает, как обращаться к {OC1.owner}... Настроить?
+IMG_TOPIC_CLAIM_OPENING	{OC1.name} обдумывает своё прозвище... Настроить?
+IMG_TOPIC_NAMEFORWINDOW_OPENING	{OC1.name} хочет дать имя {World}... Настроить?
+IMG_TOPIC_NICKNAME_OPENING	Интересно, как {OC1.owner} будет называть {OC1.name}. Настроить?
+IMG_TOPIC_PREFIX_OPENING	{OC1.name} хочет говорить поинтереснее... Задать речевое начало (口癖, в начале фразы)?
+IMG_TOPIC_SUFFIX_OPENING	{OC1.name} хочет говорить поинтереснее... Задать речевой хвостик (口癖, в конце фразы)?
+IMG_TOPIC_CASUALREMARK_OPENING	{OC1.name} хочет говорить поинтереснее... Задать присказку?
+IMG_TOPIC_SKILL_THING_OPENING	{OC1.name} размышляет о своей особой способности... Настроить?
+IMG_TOPIC_NONEED	Пока не нужно
+IMG_TOPIC_NEXT	Позже
+IMG_TOPIC_NOFOUND	Ещё не нашёл
+IMG_TOPIC_RELATIVE_NICKNAME_OPENING	{OC1.name} думает, как называть {OC2.ocname}... Задать особое прозвище?
+IMG_TOPIC_PERSONALITY__OPENING	{OC1.name} интересно, каким его видят другие. Настроить?
+IMG_TOPIC_HOMETOWN_OPENING	{OC1.name} думает о своей родине. Настроить?
+IMG_TOPIC_HATE_THING_OPENING	{OC1.name} думает о том, что не любит делать. Настроить?
+IMG_TOPIC_FAVORITE_FOOD_OPENING	{OC1.name} думает о любимой еде. Настроить?
+IMG_TOPIC_TOPIC_HATE_FOOD_OPENING	{OC1.name} думает о еде, которую не выносит. Настроить?
+IMG_TOPIC_PEOPLE_PASTIMPRESSION_OPENING	{OC1.name} думает, как описать {OC2.name}. Настроить?
+hat_name1	Корона
+hat_des1	Сегодня не выйду к двору
+hat_name2	Матросская бескозырка
+hat_des2	Ах, голос юности!
+hat_name3	Шапка-акула
+hat_des3	Осторожно, вдруг и правда укусит
+hat_name4	Лётные очки
+hat_des4	Лучший лётчик, готов к вылету!
+hat_name5	Медсестринская шапочка
+hat_des5	Дух Найтингейл жив
+hat_name6	Полицейская фуражка
+hat_des6	Одного взгляда хватает, чтобы почувствовать справедливость
+hat_name7	Фокусническая шляпа
+hat_des7	Угадай, какой сюрприз внутри
+hat_name8	Берет
+hat_des8	Модель, сбежавшая с Парижской недели моды
+hat_name9	Клоунский колпак
+hat_des9	Цирк веселья вот-вот начнётся!
+hat_name10	Шляпа детектива
+hat_des10	Великий сыщик из туманного города
+hat_name11	Двухцветная кепка
+hat_des11	Уличный хит, модно и практично
+hat_name12	Вязаная шапка
+hat_des12	Шерстяной помпон покачивается туда-сюда
+hat_name13	Шапка в рубчик
+hat_des13	Тонкая фактура, приятно на ощупь
+hat_name14	Ведьмина шляпа
+hat_des14	Из знаменитой английской школы магии
+hat_name15	Ученическая кепка
+hat_des15	Сегодня я примерный ученик
+hat_name16	Роскошная волшебная шляпа
+hat_des16	Рекомендует великий маг Мерлин
+hat_name17	Детская шапочка для сна
+hat_des17	Сегодня я послушный малыш
+hat_name18	Ночной колпак
+hat_des18	Пусть сегодня приснится что-нибудь доброе
+hat_name19	Дамская шляпа сыщика
+hat_des19	Изящная дедукция: ни одной улики не упустит
+hat_name20	Шляпа чумного доктора
+hat_des20	Родом из Средневековья
+hat_name21	Монашеский плат
+hat_des21	Ангелы среди нас
+hat_name22	Спортивный козырёк
+hat_des22	Даже под палящим солнцем не страшно
+hat_name23	Женская полицейская фуражка
+hat_des23	Красавица-полицейская на посту, всем стоять!
+hat_name24	Фуражка парадного расчёта
+hat_des24	Одного взгляда хватает, чтобы захотелось шагать в ногу
+hat_name25	Вязаная шапка с бантом
+hat_des25	Котик выглядывает, милота зашкаливает
+hat_name26	Военная фуражка
+hat_des26	Вольно! Смирно!
+hat_name27	Поварской колпак
+hat_des27	Надень, и ты мастер-повар
+hat_name28	Колпак кондитера
+hat_des28	Будто пахнет свежим хлебом из печи
+hat_name29	Шапка «Алые облака»
+hat_des29	Алые облака — знак удачи
+hat_name30	Вязаная шапка «Круто»
+hat_des30	Не холодно, а круто
+hat_name31	Ушанка
+hat_des31	Пришла из глубин сибирской зимы
+hat_name32	Зимняя шапка с наушниками
+hat_des32	Уши говорят: здесь тепло
+hat_name33	Кепка-колорблок
+hat_des33	Выбирай цвета, задавай образ
+hat_name34	Лыжные очки
+hat_des34	Слалом на склонах, стиль на максимум
+hat_name35	Кошачьи лыжные очки
+hat_des35	Мяу, взлетаем с первого снега!
+hat_name36	Солнцезащитные очки
+hat_des36	Очки гасят свет, а сиять буду я
+hat_name37	Утеплённая лётная шапка
+hat_des37	Ветрозащита, тёплые уши и стильные линзы
+hat_name38	Очки в стиле «пчелиный панк»
+hat_des38	Шестерёнки крутятся, вдохновение не кончается
+hat_name39	Венец с самоцветом
+hat_des39	Самоцвет на лбу и правда светится!
+hat_name40	Венец «Цветы сливы»
+hat_des40	На голове расцвели цветы сливы
+hat_name41	Лавровый венок
+hat_des41	Сегодня предстоит коронация
+hat_name42	Венок из ромашек
+hat_des42	На голове маленькое цветочное море
+hat_name43	Обруч из плюща
+hat_des43	Если долго носить, может, зацветёт?
+hat_name44	Шляпа мага «Сияние»
+hat_des44	Эта шляпа выглядит по-настоящему праведно
+hat_name45	Шляпа «Око бездны»
+hat_des45	Ты смотришь на неё, а она смотрит на тебя
+hat_name46	Кошачья шляпа мага
+hat_des46	Волшебный котик присматривает за тобой
+hat_name47	Шляпа «Терновый призрак»
+hat_des47	Кажется, на этой шляпе живёт слишком много жильцов...
+hat_name48	Шапка-наушники с мишкой
+hat_des48	Медвежонок, у которого свой саундтрек
+hat_name49	Кепка «Пчелиный сад»
+hat_des49	Куда ни пойдёшь, за тобой следует весна
+hat_name50	Джинсовая кепка с нашивкой
+hat_des50	Из того же гардероба, что и твои джинсы
+hat_name51	Кепка «Стимпанк-манометр»
+hat_des51	Стрелка сдвинулась, и вдохновение пришло
+hat_name52	Кепка с сиба-ину
+hat_des52	Звенит колокольчик, и вот он, сиба!
+hat_name53	Шапка маленького чертёнка
+hat_des53	Сегодня хочется немного пошалить
+hat_name54	Маска для сна «Зайчик»
+hat_des54	Зайчик будет охранять твои сладкие сны
+hat_name55	Маленькая корона
+hat_des55	Маленькая корона, скрывающая большую-большую мечту
+hat_name56	Ковбойская шляпа
+hat_des56	Дуэль в полдень: я пришёл первым
+hat_name57	Бамбуковая шляпа странника
+hat_des57	Дело сделано, рукава отряхнуты, имени не назову
+hat_name58	Кружевная соломенная шляпа
+hat_des58	Морской бриз и послеобеденный чай
+hat_name59	Шляпа «Бабочка-тако»
+hat_des59	Похоже, бабочка тайком откусывает от тако
+hat_name60	Шляпа «Триумф»
+hat_des60	Эту шляпу надо носить набок, так правильно
+hat_name61	Треуголка охотника на вампиров
+hat_des61	Ну что, где тут вампиры?
+hat_name62	Чепец аристократки
+hat_des62	Без этой шляпки не обходится ни одно чаепитие дам
+hat_name63	Шапка «Ква-ква»
+hat_des63	Я вернулся и принёс четырёхлистный клевер!
+hat_name64	Платок в горошек
+hat_des64	Такой же, как у модниц пятидесятых
+hat_name65	Платок с вышивкой «крестиком»
+hat_des65	Весь в маленьких поцелуйчиках и сердечках
+hat_name66	Соломенная шляпа с клевером
+hat_des66	Удача +1, и ещё +1
+hat_name67	Солнцезащитная шляпа «Сердечко»
+hat_des67	Тёмный стиль и серьёзный подход к солнцезащите
+hat_name68	Соломенная шляпа с гибискусом
+hat_des68	Запах моря и середины лета
+hat_name69	Соломенная шляпа с бантом
+hat_des69	Надел, и перед глазами золотое пшеничное поле
+hat_name70	Большая корона
+hat_des70	Корона уже достаточно большая, а мечта хочет стать ещё чуть больше
+hat_name71	Треуголка капитана
+hat_des71	Несёт карибский морской бриз
+hat_name72	Шапка «Бе-бе»
+hat_des72	Овечка съест мои кошмары?
+hat_name73	Треуголка «Сладкое сердце»
+hat_des73	Даже у шляпы может быть тонкая талия
+hat_name74	Цилиндр «Роза»
+hat_des74	Я джентльмен, а не какой-нибудь вор-призрак!
+hat_name75	Шапка «Двойной десерт»
+hat_des75	Обещаю, всего один кусочек
+hat_name76	Шапка «Тако с начинкой»
+hat_des76	Столько начинки, хозяин не в убытке?
+hat_name77	Венец «Волшебная бабочка»
+hat_des77	Подарок девочки, которая называет себя волшебной феей
+hat_name78	Шапка «Медуза»
+hat_des78	Погладить по голове можно, а за щупальца дёрнешь, и проспишь до завтра
+hat_name79	Шапка льва
+hat_des79	Глаза широко открыты, ждём барабанов
+hat_name80	Шапочка «Росточек»
+hat_des80	Автобус из детского сада уже ждёт снаружи
+hat_name81	Классическая панама
+hat_des81	Не знаешь, что надеть? Надень меня
+hat_name82	Новогодняя шапка с оленем
+hat_des82	Я личный водитель Санта-Клауса
+hat_name83	Берет с сердечком
+hat_des83	Высокая мода, лимитированная серия «Сладкое сердце»
+hat_name84	Джинсовый берет
+hat_des84	Артистично и прочно? Беру оба варианта
+halo_name1	Сияющий ореол
+halo_des1	Классический ореол, правда?
+halo_name2	Терновый ореол
+halo_des2	Немного колется, зато очень круто
+halo_name3	Окровавленный ореол
+halo_des3	Брызги пятен, мрачно и тёмно
+halo_name4	Ореол-корона
+halo_des4	Кто вытащил меч из камня?
+halo_name5	Утиный ореол
+halo_des5	Кря-кря-кря, мило атакуем
+halo_name6	Цыплячий ореол
+halo_des6	Пи-пи-пи, вылупляемся заново
+halo_name7	Ореол из ледяных кристаллов
+halo_des7	Подарок северной принцессы
+halo_name8	Монетка-лапка
+halo_des8	Звяк-звяк, и богатство катится в руки
+halo_name9	Кошачья летающая тарелка
+halo_des9	Хочешь вместе с мяу посмотреть на Вселенную?
+halo_name10	Сигнал Wi-Fi
+halo_des10	Полная связь, куда бы ты ни пошёл
+halo_name11	Низкий заряд
+halo_des11	Мало заряда. Подключите зарядку
+halo_name12	Полный заряд
+halo_des12	Батарея заряжена. Можно отключать
+halo_name13	Нотный стан
+halo_des13	Эта мелодия ещё не дописана...
+halo_name14	Стеклянные колокольчики
+halo_des14	Летний ветерок, кажется, задержится навсегда...
+halo_name15	Праздничный шар «Хурма»
+halo_des15	Хурма в день, и удача не уйдёт
+halo_name16	Курьер любовных писем
+halo_des16	Почему у этого письма есть крылья?
+halo_name17	Косяк рыбок
+halo_des17	Аквариум кружит над головой
+halo_name18	Счастливые клеверы
+halo_des18	Счастливые четырёхлистники, всё как надо
+halo_name19	Одуванчики на ветру
+halo_des19	Кажется, и они сейчас тоже взлетят
+halo_name20	Мыльные пузыри
+halo_des20	Что бы ни случилось, не лопай их
+halo_name21	Волшебный свиток
+halo_des21	Почему эта ручка сама пишет заклинания?
+halo_name22	Волшебная книга
+halo_des22	Буквы в этой книге никак не хотят слушаться
+halo_name23	Вальс бабочек
+halo_des23	Бабочки танцуют вальс
+halo_name24	Маленькое солнце
+halo_des24	Посмотри вверх: солнце высоко светит
+halo_name25	Маленькое облачко
+halo_des25	Почему эта тучка всё время за мной ходит...?
+halo_name26	Маленькая радуга
+halo_des26	Диплом об окончании школы плохой погоды
+halo_name27	Лунная лодочка
+halo_des27	Если зайчик уснёт, не свалится ли он?
+halo_name28	Блуждающие огоньки
+halo_des28	Вроде бы неплохо подходят для освещения
+halo_name29	Маленькая медуза
+halo_des29	Смотреть можно, а трогать ни в коем случае
+halo_name30	Маленькие призраки
+halo_des30	Маленькие призраки плывут-плывут~
+halo_name31	Звёздочки
+halo_des31	Мерцай, мерцай, звёздочка, интересно, кто ты
+halo_name32	Голографические экраны
+halo_des32	Осторожно, не ударьте, это дорогая штука
+halo_name33	Денежный дождь
+halo_des33	Это я сейчас сплю...?
+halo_name34	Маленький осьминожек
+halo_des34	Ещё чуть-чуть, и станет такояки
+halo_name35	Розовый дождь
+halo_des35	Куда ни пойду, розы стелются под ноги
+halo_name36	Сакуровая метель
+halo_des36	Будто каждый день сезон цветения сакуры
+halo_name37	Стая летучих мышей
+halo_des37	Хэллоуин — мой праздник!
+halo_name38	Огненное кольцо
+halo_des38	Так жарко...
+halo_name39	Три огонька
+halo_des39	Надень, и ходи по любой ночной дороге
+halo_name40	Снежинки
+halo_des40	Вот бы они были сладкими...
+wing_name3	Ангельские крылья
+wing_des3	Ангел спустился прямо ко мне
+wing_name5	Демонические крылья
+wing_des5	Люцифер явился грабить это место
+MOVIE_1_1_1	Мои волосы... их ещё можно… спасти?
+MOVIE_2_1_1	{OC2.name}, хочешь попробовать модный сейчас тест на совместимость?
+MOVIE_2_2_1	Хорошо, принимаю вызов{OC2.suf}
+MOVIE_2_3_1	Ну вот, мой вопрос{OC1.suf}
+MOVIE_2_10_1	Одновременно назовите какую-нибудь еду!
+MOVIE_2_10_2	Яблоко!
+MOVIE_2_10_3	Яблоко!
+MOVIE_2_10_4	Одновременно назовите животное!
+MOVIE_2_10_5	Кошка!
+MOVIE_2_10_6	Кошка!
+MOVIE_2_10_7	Одновременно назовите какого-нибудь человека!
+MOVIE_2_10_8	{Owner}!
+MOVIE_2_10_9	{Owner}!
+MOVIE_2_10_10	...
+MOVIE_2_11_1	Ну вот, мы самая совместимая пара!
+MOVIE_2_12_1	Одновременно назовите какую-нибудь еду!
+MOVIE_2_12_2	Яблоко!
+MOVIE_2_12_3	Дьявольский фрукт!
+MOVIE_2_12_4	Одновременно назовите животное!
+MOVIE_2_12_5	Кошка!
+MOVIE_2_12_6	Инфузория-туфелька!
+MOVIE_2_12_7	Одновременно назовите какого-нибудь человека!
+MOVIE_2_12_8	{OC2.name}!
+MOVIE_2_12_9	Гар〇Пот〇ер!
+MOVIE_2_12_10	...
+MOVIE_2_13_1	Это он вообще о чём{OC1.suf}?
+MOVIE_3_1_1	Добро пожаловать в гадальную лавку {OC1.name}!
+MOVIE_3_1_2	Сегодня судьбу {Owner} предскажет {OC1.me}!
+MOVIE_3_2_1	{OC1.me} погадает {Owner} по этим трём ракушкам{OC1.suf}
+MOVIE_3_3_1	<color=#d10020>Луна и прилив, пусть судьба решает.</color>
+MOVIE_3_3_1_1	<color=#d10020>Судьба, только не игнорируй меня...</color>
+MOVIE_3_3_1_2	<color=#d10020>Ахалай-махалай...</color>
+MOVIE_3_3_1_3	<color=#d10020>Ракушка... ответь мне...</color>
+MOVIE_3_3_1_4	<color=#d10020>Как наверху, так и внизу...</color>
+MOVIE_3_3_1_5	<color=#d10020>При свете этой свечи...</color>
+MOVIE_3_3_1_6	<color=#d10020>Пусть магия скажет своё слово...</color>
+MOVIE_3_3_1_7	<color=#d10020>Вселенная, давай, работай...</color>
+MOVIE_3_5_110	<color=#d10020>Два орла, одна решка</color>
+MOVIE_3_5_100	<color=#d10020>Один орёл, две решки</color>
+MOVIE_3_5_111	<size=150%><color=#d10020>Орёл, орёл, орёл! </color></size>
+MOVIE_3_5_000	<color=#d10020>Решка, решка, решка!</color>
+MOVIE_3_5_2_110	{OC1.pre}Сегодня будет нежный маленький сюрприз{OC1.suf}
+MOVIE_3_5_2_110_1	Спокойное, ровное сердце принесёт {Owner} хорошие результаты
+MOVIE_3_5_2_110_2	Маленькая удача уже в пути... не забудь расписаться за неё, {Owner}{OC1.suf}
+MOVIE_3_5_2_110_3	Кажется, сегодня будет очень уютный день{OC1.suf}
+MOVIE_3_5_2_110_4	Твои старания сегодня заметят, {Owner}{OC1.suf}
+MOVIE_3_5_2_110_5	Ракушки говорят: сегодня хорошо не спешить и наслаждаться{OC1.suf}
+MOVIE_3_5_2_110_6	Маленькая помощь рядом с тобой, {Owner}{OC1.suf}
+MOVIE_3_5_2_110_7	Сегодня интуиция у {Owner} будет на высоте{OC1.suf}
+MOVIE_3_5_2_100	{Owner}, не забудь оставить себе немного времени на отдых{OC1.suf}
+MOVIE_3_5_2_100_1	Спокойный день тоже благо. Сегодня будет тихо и безопасно{OC1.suf}
+MOVIE_3_5_2_100_2	{OC1.me} думает, сегодня хороший день, чтобы разобраться в чувствах{OC1.suf}
+MOVIE_3_5_2_100_3	Иди своим темпом, {Owner}{OC1.suf}
+MOVIE_3_5_2_100_4	Ракушки напоминают {Owner}: сегодня пей больше воды{OC1.suf}
+MOVIE_3_5_2_100_5	Терпение приносит хорошее. Не спеши, {Owner}{OC1.suf}
+MOVIE_3_5_2_100_6	Сегодняшняя суета того стоит{OC1.suf}
+MOVIE_3_5_2_111	Все три ракушки говорят, что {Owner} невероятно везуч{OC1.suf}!
+MOVIE_3_5_2_111_1	Сегодня {Owner} окружат хорошие события{OC1.suf}!
+MOVIE_3_5_2_111_2	{OC1.me} чувствует мощную энергию удачи{OC1.suf}!
+MOVIE_3_5_2_111_3	Какой отличный знак! Улыбнись, {Owner}{OC1.suf}!
+MOVIE_3_5_2_111_4	Сегодня подходящий день, чтобы наконец взяться за давно задуманное, {Owner}{OC1.suf}!
+MOVIE_3_5_2_111_5	Каждый выбор {Owner} сегодня окажется верным{OC1.suf}!
+MOVIE_3_5_2_111_6	Удача уже выстроилась в очередь, чтобы найти {Owner}{OC1.suf}!
+MOVIE_3_5_2_000	{OC1.pre}Сегодня будь к себе особенно добр, {Owner}{OC1.suf}~
+MOVIE_3_5_2_000_1	Ракушки говорят, сегодня день для отдыха и подзарядки{OC1.suf}~
+MOVIE_3_5_2_000_2	Не перенапрягайся, {Owner}{OC1.suf}~
+MOVIE_3_5_2_000_3	{OC1.me} буду рядом с тобой, {Owner}{OC1.suf}~
+MOVIE_3_5_2_000_4	Сегодня {Owner} стоит пораньше лечь спать{OC1.suf}~
+MOVIE_3_5_2_000_5	Не забывай хвалить себя, {Owner}{OC1.suf}~
+MOVIE_3_5_2_000_6	Даже если устал, {Owner}, ты уже молодец{OC1.suf}~
+MOVIE_3_5_2_000_7	Завтра будет лучше. А сегодня просто расслабься, {Owner}{OC1.suf}~
+MOVIE_3_5_3	Итак, сегодняшний талисман удачи...
+MOVIE_3_5_3_000	Хочешь изменить судьбу к лучшему? Попробуй носить с собой...
+MOVIE_3_5_4	<color=#d10020>Что-нибудь мягкое</color>
+MOVIE_3_5_4_1	<color=#d10020>Что-нибудь зелёное</color>
+MOVIE_3_5_4_2	<color=#d10020>Что-нибудь ароматное</color>
+MOVIE_3_5_4_3	<color=#d10020>Что-нибудь жёлтое</color>
+MOVIE_3_5_4_4	<color=#808080>Что-нибудь твёрдое</color>
+MOVIE_3_5_4_5	<color=#d10020>Что-нибудь круглое </color>
+MOVIE_3_5_4_6	<color=#d10020>Что-нибудь цилиндрической формы</color>
+MOVIE_3_5_4_7	<color=#d10020>Что-нибудь красное</color>
+MOVIE_3_5_4_8	<color=#8B4513>Что-нибудь коричневое</color>
+MOVIE_3_5_4_9	<color=#222222>Что-нибудь чёрное</color>
+MOVIE_3_5_4_10	<color=#d10020>Что-нибудь белое</color>
+MOVIE_3_5_4_11	<color=#d10020>Что-нибудь зернистое</color>
+MOVIE_3_5_4_12	<color=#d10020>Что-нибудь, что идёт парой</color>
+MOVIE_3_5_4_13	<color=#d10020>Что-нибудь пластиковое</color>
+MOVIE_3_5_4_14	<color=#d10020>Что-нибудь светящееся</color>
+MOVIE_3_5_4_15	<color=#d10020>Что-нибудь в коробке</color>
+MOVIE_3_5_4_16	<color=#d10020>Что-нибудь золотое</color>
+MOVIE_3_5_4_17	<color=#d10020>Что-нибудь ценное</color>
+MOVIE_3_5_4_18	<color=#7FFF00>Что-нибудь липкое</color>
+MOVIE_3_5_4_19	<color=#d10020>Что-нибудь, что двигается само</color>
+MOVIE_3_5_4_20	<color=#d10020>Что-нибудь горькое</color>
+MOVIE_3_5_5	Сегодня у тебя всё получится, {Owner}!
+MOVIE_3_5_5_000	Не волнуйся, {OC1.me} всегда буду рядом, {Owner}.
+MOVIE_4_2_1	Эй, вы впереди, подождите!
+MOVIE_4_3_1	Кое-что нужно тебе сказать...
+MOVIE_4_7_1	У тебя шнурок развязался!
+MOVIE_4_8_1	О-ох... ладно...
+MOVIE_4_11_1	Недавно во сне была встреча с тобой!
